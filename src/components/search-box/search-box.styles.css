@@ -1,0 +1,18 @@
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    font-size: 1rem;
+}
+
+.search-box::-webkit-search-cancel-button {
+    font-size: 30px;
+}
+
+.search-box::-webkit-search-cancel-button:hover {
+    cursor: pointer;
+}

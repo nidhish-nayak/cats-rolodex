@@ -1,0 +1,18 @@
+.card-container {
+    margin: 1em;
+    border-radius: 0.5em;
+    padding: 1em;
+    width: 14em;
+    height: 20em;
+    background: rgba(146, 242, 255, 0.678);
+    border: 1px solid grey;
+    box-shadow: 1px 1px 10px rgb(17, 17, 17);
+    transition: transform 150ms ease-in-out;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.card-container:hover {
+    box-shadow: 4px 4px 8px rgb(17, 17, 17);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
