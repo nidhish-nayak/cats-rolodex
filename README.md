@@ -9,25 +9,25 @@ To run the Cats Rolodex App locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/cats-rolodex-app.git
+   git clone https://github.com/Nidhish-D-Nayak/cats-rolodex.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd cats-rolodex-app
+   cd cats-rolodex
    ```
 
 3. Install the dependencies:
 
    ```shell
-   npm install
+   yarn install
    ```
 
 4. Start the development server:
 
    ```shell
-   npm start
+   yarn start
    ```
 
 5. Open your browser and visit `http://localhost:3000` to view the app.
